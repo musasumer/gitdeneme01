@@ -8,6 +8,9 @@ public class GitDeneme01 {
 		int b = 22;
 		int sum = a+b;
 		System.out.println(sum);
+		
+		int prod = a*b;
+		System.out.println(prod);
 
 	}
 
